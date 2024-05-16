@@ -1,0 +1,24 @@
+
+h1 {
+    text-align: center;
+    background: black;
+    color: white;
+    font-style: italic;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+strong{
+    float: left;
+}
+
+table, th, td {
+    border:1px solid black;
+    width: 100%;
+}
+th{
+    background-color: black;
+    color: white;
+}
+td{
+    background-color: white;
+}
